@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+Buyer corner
+ 
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/26a2957a-cc7b-4d18-8c83-f374ab014f68" />
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+Sellers corner
 
-In the project directory, you can run:
+ <img width="975" height="340" alt="image" src="https://github.com/user-attachments/assets/2cdc08e5-b479-4832-b4af-b3c286e8934d" />
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Sell something
+ 
+<img width="507" height="657" alt="image" src="https://github.com/user-attachments/assets/1a9f966c-03d8-4b18-88a7-c34bc965f9ba" />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+Metamask permission for transaction of gas fee
+ 
+<img width="560" height="865" alt="image" src="https://github.com/user-attachments/assets/4b3e20fe-d8d1-4bd6-a7f8-dc8d0ab31186" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+Buy something 
+ 
+<img width="975" height="217" alt="image" src="https://github.com/user-attachments/assets/7e1389ef-502c-4d2a-80a9-628c63409ad4" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+Bought book
+ 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ <img width="975" height="450" alt="image" src="https://github.com/user-attachments/assets/ec41238a-ec36-4f11-b615-0d96408c050f" />
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<img width="769" height="286" alt="image" src="https://github.com/user-attachments/assets/512cdc81-ad4c-4f4f-9abd-f2b694e7d1fe" />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Change in account balances
 
-## Learn More
+ <img width="975" height="210" alt="image" src="https://github.com/user-attachments/assets/d1230354-9a00-482a-aabc-0bb2141c1dd5" />
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Smart contact in ganache
+ 
+<img width="975" height="308" alt="image" src="https://github.com/user-attachments/assets/4781685a-a1bf-4f73-8fca-bf3e307f6e5c" />
 
-### Code Splitting
+Transactions
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+ <img width="975" height="481" alt="image" src="https://github.com/user-attachments/assets/bcc0280b-fb86-4326-8e84-fab6416b1148" />
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
